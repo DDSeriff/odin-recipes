@@ -2,3 +2,5 @@
 This project takes place around halfway through the Odin Project, and is designed to familiarize students with using Git and Github. The coursework so far has been extremely helpful, and I've learned everything from cloning a repo on Github to writing short but informational commit messages.
 
 This README is supposed to be filled with text, and I'm pretty good at stream of consciousness typing. Will this project feature ACTUAL recipes? I don't know yet. I've only been instructed to prepare this README. I hope it does, though. I like recipes.
+
+Alright, so I have advanced through the lesson to the point that I have created five separate HTML files, each of which links back to my index.html, and each containing a different recipe that I like. By successfully adding images, descriptions, ingredients and procedures, I hope that I am demonstrating a very basic competency with slinging together HTML. Knowledge of paragraphs, image insertion, lists (ordered and unordered), and links have been incredibly valauble to me.
