@@ -2,8 +2,20 @@
 
 body {
     background-color: #ffe6c5;
+    font-family: Helvetica, Arial, 'Times New Roman';
 }
 
 img {height: 300px;
     width: 300px;
+}
+
+.center {
+    text-align: center;
+}
+
+ul {
+    line-height: 30px;
+    font-size: 20px;
+    list-style-type: none;
+    padding: 0
 }
